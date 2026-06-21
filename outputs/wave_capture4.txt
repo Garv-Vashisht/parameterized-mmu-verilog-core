@@ -1,0 +1,6 @@
+=== WAVE CAPTURE 4: TRANSLATION BYPASS ===
+TIME(ns) | TRANSLATE_EN | REQ_VA     | RSP_VALID | RSP_PA
+              305000  |      0       | 0xaaaabbbb |     0     | 0x00000000
+              315000  |      0       | 0xaaaabbbb |     1     | 0xaaaabbbb
+              325000  |      0       | 0xaaaabbbb |     1     | 0xaaaabbbb
+              335000  |      0       | 0xaaaabbbb |     1     | 0xaaaabbbb

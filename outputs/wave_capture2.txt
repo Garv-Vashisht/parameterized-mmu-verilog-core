@@ -1,0 +1,6 @@
+=== WAVE CAPTURE 2: TLB CACHE CACHED HIT ===
+TIME(ns) | CLK | REQ_VALID | TLB_HIT | RSP_VALID | RSP_PA
+              165000  |  1  |     1     |    1    |     0     | 0x40000000
+              175000  |  1  |     1     |    1    |     0     | 0x40000000
+              185000  |  1  |     1     |    1    |     1     | 0x40000000
+              195000  |  1  |     1     |    1    |     0     | 0x40000000

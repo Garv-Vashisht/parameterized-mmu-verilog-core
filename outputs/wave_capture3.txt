@@ -1,0 +1,6 @@
+=== WAVE CAPTURE 3: PRIVILEGE PROTECTION FAULT ===
+TIME(ns) | PRIV(1=S,0=U) | REQ_VALID | RSP_VALID | RSP_FAULT
+              235000  |       0       |     1     |     0     |     0
+              245000  |       0       |     1     |     0     |     0
+              255000  |       0       |     1     |     1     |     0
+              265000  |       0       |     1     |     0     |     0

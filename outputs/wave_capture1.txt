@@ -1,0 +1,10 @@
+=== WAVE CAPTURE 1: COLD TRANSLATION (PTW WALK) ===
+TIME(ns) | CLK | REQ_VALID | TRANSLATE_EN | RSP_VALID | FAULT
+               55000  |  1  |     1     |      1       |     0     |   0
+               65000  |  1  |     1     |      1       |     0     |   0
+               75000  |  1  |     1     |      1       |     0     |   0
+               85000  |  1  |     1     |      1       |     0     |   0
+               95000  |  1  |     1     |      1       |     0     |   0
+              105000  |  1  |     1     |      1       |     0     |   0
+              115000  |  1  |     1     |      1       |     1     |   0
+              125000  |  1  |     1     |      1       |     0     |   0
